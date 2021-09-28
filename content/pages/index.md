@@ -12,7 +12,7 @@ sections:
       - label: Join waitlist
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Send us a question
         url: /pricing
         style: secondary
     image: images/hero.svg
