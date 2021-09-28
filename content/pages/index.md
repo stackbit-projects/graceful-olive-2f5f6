@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Want to eat more Plant Based meals, but don''t know where to start?'
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: Get a Personal Plant Based nutrition plan
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
